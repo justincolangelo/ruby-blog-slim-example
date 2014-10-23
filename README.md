@@ -1,4 +1,4 @@
-ruby-blog-slim-example
-======================
+ruby-blog-example
+=================
 
-Ruby on Rails, JQuery, Bootstrap, Slim
+Ruby on Rails, JQuery, Bootstrap
